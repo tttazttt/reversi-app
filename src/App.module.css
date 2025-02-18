@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  color: rgb(55, 54, 54);
+}
+
+.container {
+  width: 90%;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: beige;
+  overflow: hidden;
+}
+
+.nowTurn {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.result {
+  text-align: center;
+  font-size: 1.5rem;
+}
